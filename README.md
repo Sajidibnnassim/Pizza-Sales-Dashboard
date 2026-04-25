@@ -8,12 +8,16 @@ A dynamic Power BI solution designed to transform raw transaction data into acti
 The Pizza Sales Report is a comprehensive analytical tool that provides a 360-degree view of retail performance over a 12-month period. Its primary purpose is to help restaurant stakeholders identify volume trends, recognize high-value customer preferences (by pizza size and category), and pinpoint underperforming menu items to drive strategic operational improvements.
 
 3. Tech Stack
+   
 📊 Power BI Desktop – Used for building the end-to-end interactive dashboard and UI/UX design.
+
 📂 SQL / Power Query – Utilized for data cleaning, handling missing values, and standardizing date/time formats for time-series analysis.
+
 🧠 DAX (Data Analysis Expressions) – Implemented for complex measures including Average Order Value, Total Revenue, and rolling growth metrics.
+
 📝 Data Modeling – Star schema architecture connecting transactional sales data with pizza categories and sizing dictionaries.
 
-4. Data Source
+5. Data Source
    
 Source: Retail Transactional Database (Dataset containing ~21,350 orders and 49,500+ individual pizza sales).
 
