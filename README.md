@@ -50,4 +50,3 @@ To measure business health, the following metrics were calculated using **DAX**:
 ---
 
 **Author:** Sajid Shaikh  
-**Connect:** [LinkedIn](your-link-here) | [Email](mailto:your-email@example.com)
