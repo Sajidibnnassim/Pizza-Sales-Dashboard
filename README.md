@@ -49,4 +49,10 @@ To measure business health, the following metrics were calculated using **DAX**:
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Pizza Home Page]([Screenshots/home_page.png](https://github.com/Sajidibnnassim/Pizza-Sales-Dashboard/blob/main/Page_1.jpeg)
+![Best Worst Sellers]([Screenshots/best_sellers.png](https://github.com/Sajidibnnassim/Pizza-Sales-Dashboard/blob/main/Page_2.jpeg)
+
+---
 **Author:** Sajid Shaikh  
