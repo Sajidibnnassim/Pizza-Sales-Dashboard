@@ -52,10 +52,10 @@ To measure business health, the following metrics were calculated using **DAX**:
 ## 🖼️ Dashboard Preview
 
 ### 🍕 Home Overview
-![Pizza Home Page](https://raw.githubusercontent.com/Sajidibnnassim/Pizza-Sales-Dashboard/main/Page%201.jpeg)
+![Pizza Home Page](https://raw.githubusercontent.com/Sajidibnnassim/Pizza-Sales-Dashboard/main/Page_1.jpeg)
 
 ### 🏆 Best & Worst Sellers
-![Best Worst Sellers](https://raw.githubusercontent.com/Sajidibnnassim/Pizza-Sales-Dashboard/main/Page%202.jpeg)
+![Best Worst Sellers](https://raw.githubusercontent.com/Sajidibnnassim/Pizza-Sales-Dashboard/main/Page_2.jpeg)
 
 ---
 
