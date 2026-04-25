@@ -1,5 +1,12 @@
 # Pizza-Sales-Dashboard
 
+1. Project Title / Headline
+🍕 Slice of Success: Global Pizza Sales Insights Dashboard
+A dynamic Power BI solution designed to transform raw transaction data into actionable business intelligence—focusing on revenue optimization, peak-hour performance, and inventory management through menu popularity.
+
+2. Short Description / Purpose
+The Pizza Sales Report is a comprehensive analytical tool that provides a 360-degree view of retail performance over a 12-month period. Its primary purpose is to help restaurant stakeholders identify volume trends, recognize high-value customer preferences (by pizza size and category), and pinpoint underperforming menu items to drive strategic operational improvements.
+
 3. Tech Stack
 📊 Power BI Desktop – Used for building the end-to-end interactive dashboard and UI/UX design.
 
